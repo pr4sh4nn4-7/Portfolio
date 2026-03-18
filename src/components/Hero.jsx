@@ -15,10 +15,10 @@ const Hero = () => {
           <div className="hero-text">
             <h1 className="hero-title">
               <span className="greeting">Hi, I'm</span>
-              <span className="name">MERN Stack Developer</span>
+              <span className="name">Prashanna Ghimire</span>
             </h1>
             <p className="hero-subtitle">
-              Intermediate Developer specializing in modern web technologies,
+              Developer specializing in modern web technologies,
               database management, and web security
             </p>
             <div className="hero-buttons">
@@ -45,9 +45,9 @@ const Hero = () => {
               </div>
               <div className="code-content">
                 <pre>
-{`const developer = {
+                  {`const developer = {
   stack: 'MERN',
-  level: 'Intermediate',
+  level: 'Professional',
   skills: [
     'React', 'Node.js',
     'MongoDB', 'PostgreSQL',

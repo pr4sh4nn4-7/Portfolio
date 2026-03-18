@@ -33,7 +33,7 @@ const Navigation = ({ activeSection }) => {
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="nav-container">
         <div className="nav-logo" onClick={() => scrollToSection('home')}>
-          Portfolio
+          PR4SH4NN4
         </div>
         <ul className={`nav-menu ${isMobileMenuOpen ? 'active' : ''}`}>
           {navItems.map((item) => (

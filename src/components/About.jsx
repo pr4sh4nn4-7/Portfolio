@@ -8,7 +8,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I'm an intermediate MERN stack developer passionate about building
+              I'm an  MERN stack developer passionate about building
               scalable web applications and secure digital experiences. With a
               strong foundation in modern JavaScript frameworks and database
               technologies, I create efficient and maintainable solutions.
@@ -47,6 +47,14 @@ const About = () => {
                   <p>PostgreSQL & SQL proficiency</p>
                 </div>
               </div>
+              <div className="highlight-item">
+                <span className="highlight-icon">💾</span>
+                <div>
+                  <h3>Version Control</h3>
+                  <p>Git & Github</p>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>

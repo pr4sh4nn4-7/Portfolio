@@ -43,7 +43,7 @@ const Contact = () => {
   }
 
   const socialLinks = [
-    { name: 'GitHub', icon: '💻', url: 'https://github.com/Bramha7' },
+    { name: 'GitHub', icon: '💻', url: 'https://github.com/pr4sh4nn4-7' },
     { name: 'LinkedIn', icon: '💼', url: 'https://www.linkedin.com/in/prashanna-ghimire-41078b2a2/' },
     { name: 'Email', icon: '📧', url: 'mailto:prashannaghimire29@gmail.com' },
 
